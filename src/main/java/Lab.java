@@ -14,7 +14,7 @@ public class Lab {
 
     /**
      * Create and instantiate a collection that implements that Map interface, like
-     * TreeSet or HashSet. This will be a Map that maps Integer keys to String values.
+     * TreeMap or HashMap. This will be a Map that maps Integer keys to String values.
      * For example, 1:cat, 2:dog, 3:rat, etc.
      *
      * @return a new Map instantiated using Integer keys and String values.
